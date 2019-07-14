@@ -226,3 +226,30 @@
     height: 250px;
     margin-left: 5px;
 }
+
+
+/* iphone 678 */
+@media(max-width:376px){
+    .all,
+    .middle,
+    .text3,
+    .contents{width:100%;}
+
+    .icons,
+    .navbar,
+    .bottom,
+    .small-box,
+    .fas{display: none;}
+
+    .middle,
+    .text3{margin-left: 50%;}
+}
+
+
+
+    
+
+
+
+
+
