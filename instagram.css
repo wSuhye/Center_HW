@@ -239,7 +239,9 @@
     .navbar,
     .bottom,
     .small-box,
-    .fas{display: none;}
+    .fas,
+    .line,
+    .line2{display: none;}
 
     .middle,
     .text3{margin-left: 50%;}
